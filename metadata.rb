@@ -1,3 +1,4 @@
+name             "chef-ruby-shadow"
 maintainer       "Tom Howe"
 maintainer_email "turtlebender at gmail.com"
 license          "All rights reserved"
